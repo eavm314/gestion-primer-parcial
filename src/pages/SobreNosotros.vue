@@ -29,7 +29,12 @@
         en desarrollo de software, trabajamos juntos para ofrecer soluciones innovadoras y eficientes.
       </p>
     </div>
-  </div>
+</div>
+<div class="text-center mt-8 mx-80">
+    <a href="https://drive.google.com/drive/u/0/folders/19QaYHOGPt3hygcYjw7Dh-oTPqonl31o0" target="_blank">
+        <p class="text-4xl bg-slate-300 py-4 rounded-xl">>> Descargar Documentación Aquí &lt;&lt;</p>
+    </a>
+</div>
 </template>
 
 <script setup lang="ts">

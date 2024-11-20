@@ -138,7 +138,17 @@
         </div>
     </div>
     
-    <img class="m-auto" src="../assets/images/trello-board.png" alt="trello-board">
+    <div class="m-8">
+        <h3 class="text-xl font-semibold">Herramientas</h3>
+        <div class="flex">
+            <img class="m-auto w-80" src="../assets/images/plan/trello.png" alt="trello-board">
+            <img class="m-auto w-60" src="../assets/images/plan/herramientas_google.jpeg" alt="google">
+            <img class="m-auto w-80" src="../assets/images/plan/notion.png" alt="notion">
+
+        </div>
+    </div>
+    <h3 class="text-xl ml-8 font-semibold">Trello Board</h3>
+    <img class="m-auto" src="../assets/images/plan/trello-board.png" alt="trello-board">
 
     <h1 class="text-3xl font-bold text-center text-gray-800 my-8">Gestión de Riesgos</h1>
 
