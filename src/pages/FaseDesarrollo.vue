@@ -58,7 +58,7 @@
       </div>
     </div>
     <h2 class="text-xl font-bold mx-8">Herramientas</h2>
-    <div class="flex flex-row justify-center">
+    <div class="flex flex-row justify-center gap-16">
       <div class="flex flex-col items-center">
         <h2 class="text-xl font-semibold mt-4">
           Herramientas para el desarrollo
@@ -94,6 +94,11 @@
         </h2>
         <img
           src="../assets/images/desarrollo/figma.png"
+          alt="Aqui va una imagen chida :D"
+          class="my-4 w-80 h-40 object-contain"
+        />
+        <img
+          src="../assets/images/desarrollo/tailwind.png"
           alt="Aqui va una imagen chida :D"
           class="my-4 w-80 h-40 object-contain"
         />
