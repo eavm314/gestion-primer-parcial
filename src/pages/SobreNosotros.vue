@@ -21,7 +21,7 @@
         conformado por: 
 
         <li>Jhosias Laguna (Gerente / PO)</li>
-        <li>Enrique Vicente (Lead / Fullstack)</li>
+        <li>Enrique Vicente (Scrum Master / Fullstack)</li>
         <li>Brenda Alvarado (Frontend Dev / Designer)</li>
         <li>Pablo Acker (Backend Dev/ DevOps)</li>
         <br/>
