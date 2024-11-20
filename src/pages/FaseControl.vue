@@ -16,6 +16,7 @@
         <div class="flex flex-row justify-center">
           <img src="../assets/images/pruebas/Selenium.png" class="my-4 w-80 h-40 object-contain" />
           <img src="../assets/images/pruebas/zap.jpg" class="my-4 w-80 h-40 object-contain" />
+          <img src="../assets/images/pruebas/jest.png" class="my-4 w-80 h-36 object-contain" />
         </div>
       </div>
       <div class="border border-gray-500 p-4 rounded-lg flex flex-col gap-2">
