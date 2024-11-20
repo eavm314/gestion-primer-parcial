@@ -144,16 +144,14 @@
             <img class="m-auto w-80" src="../assets/images/plan/trello.png" alt="trello-board">
             <img class="m-auto w-60" src="../assets/images/plan/herramientas_google.jpeg" alt="google">
             <img class="m-auto w-80" src="../assets/images/plan/notion.png" alt="notion">
-
         </div>
     </div>
     <h3 class="text-xl ml-8 font-semibold">Trello Board</h3>
     <img class="m-auto" src="../assets/images/plan/trello-board.png" alt="trello-board">
 
     <h1 class="text-3xl font-bold text-center text-gray-800 my-8">Gestión de Riesgos</h1>
-
-     <!-- Evaluación de Riesgos -->
-     <div class="m-8">
+    <!-- Evaluación de Riesgos -->
+    <div class="m-8">
         <h3 class="text-xl font-semibold text-gray-800">Evaluación de Riesgos</h3>
         <div class="mt-4 grid grid-cols-2 gap-4">
             <!-- Riesgo 1 -->
@@ -193,8 +191,12 @@
             </div>
         </div>
     </div>
-
     
+    
+    <div class="flex">
+        <img class="m-auto w-80" src="../assets/images/plan/riesgo.jpg" alt="riesgo">
+        <img class="m-auto w-[500px]" src="../assets/images/plan/riesgo2.jpg" alt="riesgo">
+    </div>
     <!-- Estrategias de Mitigación -->
     <!-- <h2 class="text-2xl ml-8 font-semibold text-gray-700">Plan de Gestión de Riesgos</h2> -->
     <div class="m-8">
@@ -273,6 +275,8 @@
             </div>
         </div>
     </div>
+    <img class="mx-auto mb-10 w-96" src="../assets/images/plan/planaction.jpg" alt="riesgo">
+
 </template>
 
 <script setup lang="ts">

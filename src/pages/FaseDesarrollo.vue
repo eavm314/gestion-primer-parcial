@@ -77,10 +77,16 @@
               class="my-4 w-40 h-40 object-cover"
             />
         </div>
-        <img
-          src="../assets/images/desarrollo/nodejs.png"
-          class="my-4 w-80 h-40 object-contain"
-        />
+        <div class="flex gap-2">
+            <img
+              src="../assets/images/desarrollo/nodejs.png"
+              class="my-4 w-52 object-contain"
+            />
+            <img
+              src="../assets/images/desarrollo/mongo.jpg"
+              class="my-4 w-36 object-contain"
+            />
+        </div>
       </div>
       <div class="flex flex-col items-center">
         <h2 class="text-xl font-semibold mt-4">
