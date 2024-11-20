@@ -67,6 +67,10 @@
                     <li>Seguridad en el manejo de datos.</li>
                 </div>
             </div>
+            <img
+            src="../assets/images/inicio/requerimientos.webp"
+            class="my-4 w-96 object-contain mx-auto"
+          />
         </div>
 
         <!-- Carta de aceptación -->
